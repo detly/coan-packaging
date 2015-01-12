@@ -1,5 +1,5 @@
-coan (6.0.1-1~trusty) trusty; urgency=medium
+coan (6.0.1-1~utopic) utopic; urgency=medium
 
-  * Initial packaging for trusty.
+  * Initial packaging for utopic.
 
  -- Jason Heeris <jason.heeris@gmail.com>  Mon, 12 Jan 2015 21:34:00 +1100
